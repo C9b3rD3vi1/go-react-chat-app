@@ -1,0 +1,33 @@
+# air.toml
+
+# Root of your project
+root = "."
+# Directory to watch for changes
+watch_dir = "."
+
+# Log level (info, warn, error, debug)
+log_level = "info"
+
+# Path to the main package to run
+main = "your_project_name"
+
+# Binary output directory
+bin = "bin"
+
+# File extensions to watch
+extensions = ["go"]
+
+# Run the binary with the following flags
+# (uncomment to add any)
+# run_flags = ""
+
+# Ignore files or directories
+ignore = ["vendor", "tmp", ".git"]
+
+# Delay in seconds before restarting
+# (uncomment to set a delay)
+# delay = 0
+
+# Reload settings
+# (uncomment to enable)
+# reload = true
