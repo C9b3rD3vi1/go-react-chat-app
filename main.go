@@ -19,7 +19,7 @@ import (
 // WebSocket server
 // Main chat application function
 func main() {
-	fmt.Println("Starting.....")
+	fmt.Println("Starting Go Web Server........")
     app := fiber.New()
 
     app.Get("/", func (c *fiber.Ctx) error {
