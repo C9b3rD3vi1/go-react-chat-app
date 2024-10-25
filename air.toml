@@ -3,7 +3,23 @@
 # Root of your project
 root = "."
 # Directory to watch for changes
-watch_dir = "."
+watch_dir = "." # Directory to watch
+
+#Temporary directory where air will store temporary files
+temp_dir = "/tmp"
+
+
+# Application settings
+[app]
+
+# Environment (development, production)
+environment = "development"
+
+# Application name
+name = "Go React Chat App"
+
+# Application version
+version = "0.0.1"
 
 # Log level (info, warn, error, debug)
 log_level = "info"
