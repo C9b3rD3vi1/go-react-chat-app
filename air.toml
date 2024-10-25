@@ -33,6 +33,9 @@ bin = "bin"
 # File extensions to watch
 extensions = ["go"]
 
+# Files to exclude
+exclude = ["temp/*", "client/*"]
+
 # Run the binary with the following flags
 # (uncomment to add any)
 # run_flags = ""
