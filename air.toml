@@ -9,7 +9,7 @@ watch_dir = "."
 log_level = "info"
 
 # Path to the main package to run
-main = "your_project_name"
+main = "go_react_chat_app"
 
 # Binary output directory
 bin = "bin"
