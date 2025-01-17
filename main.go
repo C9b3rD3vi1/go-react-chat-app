@@ -24,3 +24,7 @@ func main() {
 
     log.Fatal(app.Listen(":3000"))
 }
+
+
+// client function
+func (c *Client)
