@@ -12,9 +12,6 @@ import (
 )
 
 
-
-
-
 // WebSocket server
 // Main chat application function
 func main() {
