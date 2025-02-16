@@ -4,4 +4,4 @@ A simple chat and communication app I developed using Go programming language an
 
 ## fibre server
 
-![Fibre Server run](/images/fibreserver.png)
+![Fibre Server run](./images/fibreserver.png)
